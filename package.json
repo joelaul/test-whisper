@@ -1,0 +1,11 @@
+{
+  "name": "test-whisper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.0",
+    "text-to-speech-js": "^1.1.10"
+  }
+}
