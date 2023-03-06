@@ -2,10 +2,12 @@
   "name": "test-whisper",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/joelaul/test-whisper.git",
+  "author": "Joe Lauletta <laulettaj@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "openai": "^3.2.0",
+    "openai": "^3.2.1",
     "text-to-speech-js": "^1.1.10"
   }
 }
